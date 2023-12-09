@@ -5,4 +5,4 @@
 - Goals: learn js, and java
 ## Current Projects
 * Unity Game Mods
-* SyncBot
+* 1v1 Cheat
