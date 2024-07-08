@@ -3,8 +3,7 @@
 <p align="center">
 Hi there, I'm RPN Panda 👋 
 </p>
-<hr/>
-</hr>
+***
 ## I'm A Developer And A Student
 - I current have experience in C++, C# and html
 - Goals: learn js, and java
