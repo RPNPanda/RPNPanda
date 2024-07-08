@@ -1,12 +1,12 @@
 ![alt text](https://github.com/RPNPanda/RPNPanda/blob/main/New%20Project%20(15).png?raw=true)
 
 <p align="center">
-h1 Hi there, I'm RPN Panda 👋 
+Hi there, I'm RPN Panda 👋 
 </p>
-
-## I'm A Developer And A Student
+<hr/>
+### I'm A Developer And A Student
 - I current have experience in C++, C# and html
 - Goals: learn js, and java
-## Current Projects
+### Current Projects
 * Unity Game Mods
 * 1v1 Cheat
