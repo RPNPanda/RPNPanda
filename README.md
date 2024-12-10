@@ -4,10 +4,3 @@
 Hi there, I'm RPN Panda 👋 
 
 <hr/>
-
-### I'm A Developer And A Student
-- I current have experience in C++, C# and html
-- Goals: learn js, and java
-### Current Projects
-* Unity Game Mods
-* 1v1 Cheat
